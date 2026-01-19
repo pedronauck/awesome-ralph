@@ -91,6 +91,7 @@ project-root/
 
 ### Standalone Implementations
 
+- [Compozy](https://compozy.com) - All-in-one AI development platform with full software lifecycle from PRD->PR, a sophisticated loop mechanism and true parallelism with worktrees.
 - [ralph](https://github.com/snarktank/ralph) - PRD-driven task management with automatic branching, flowchart visualization, and auto-archiving.
 - [ralph](https://github.com/iannuttall/ralph) - Minimal file-based agent loop supporting codex/claude/droid/opencode.
 
